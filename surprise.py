@@ -1,2 +1,2 @@
 def morning():
-    pass
+    return 'good morning'
